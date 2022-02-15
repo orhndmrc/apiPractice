@@ -1,0 +1,11 @@
+{
+  "name": "apipractice",
+  "version": "1.0.0",
+  "description": "This is api framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orhan Demirci",
+  "license": "ISC"
+}
